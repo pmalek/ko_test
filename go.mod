@@ -1,4 +1,4 @@
-module ko_test
+module github.com/pmalek/ko_test
 
 go 1.15
 

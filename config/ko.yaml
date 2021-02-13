@@ -15,6 +15,6 @@ spec:
       containers:
         - name: hello-world
           # This is the import path for the Go binary to build and run.
-          image: ko://github.com/google/ko/test
+          image: ko://github.com/pmalek/ko_test
           ports:
             - containerPort: 8080
